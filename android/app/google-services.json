@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990291981224",
+    "project_id": "device-streaming-6be740f1",
+    "storage_bucket": "device-streaming-6be740f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990291981224:android:35f0256bb599c83c82239d",
+        "android_client_info": {
+          "package_name": "com.example.learningdart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApp46KXXrG7y9kE8_GypwsO0hYqfA8Aac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
